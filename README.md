@@ -26,4 +26,4 @@ Page Where you can add new transaction.
 Page where you can set your monthly budget.
 
 
-<img src="(https://github.com/Atharva17062002/expenses/blob/master/assets/Screenshot_20230120_220108.png)" width="300" height="787">
+<img src="https://github.com/Atharva17062002/expenses/blob/master/assets/Screenshot_20230120_220108.png" width="300" height="787">
