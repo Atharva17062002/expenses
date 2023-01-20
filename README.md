@@ -1,16 +1,16 @@
 # expenses
 
-A new Flutter project.
+This is an easy way to track and control your expenditure.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Dashboard of the application.
+![Screenshot_20230120_215901](https://user-images.githubusercontent.com/71925942/213753375-6d6ab06b-350d-41e0-8ce8-6f792f2ece04.png)
 
-A few resources to get you started if this is your first Flutter project:
+All transactions page where you can see the transaction according to the date.
+![Screenshot_20230120_220041](https://user-images.githubusercontent.com/71925942/213753671-49804e63-f9f4-40b8-b43f-569f95e6c8dc.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Page Where you can add new transaction.
+![Screenshot_20230120_220055](https://user-images.githubusercontent.com/71925942/213753797-1e28631c-10e0-4274-b49f-3e76ddf5b40f.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Page where you can set your monthly budget.
+![Screenshot_20230120_220108](https://user-images.githubusercontent.com/71925942/213753902-6cb0b181-3686-4995-814c-8f614e07c56f.png)
