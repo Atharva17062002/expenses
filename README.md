@@ -6,7 +6,7 @@ This is an easy way to track and control your expenditure.
 Dashboard of the application.
 
 
-<img src="https://github.com/Atharva17062002/expenses/blob/master/assets/Screenshot_20230120_215901.png" width="300" height="900">
+<img src="https://github.com/Atharva17062002/expenses/blob/master/assets/Screenshot_20230120_215901.png" width="300" height="787">
 
 
 
