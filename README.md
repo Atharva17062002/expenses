@@ -4,7 +4,7 @@ This is an easy way to track and control your expenditure.
 
 
 Dashboard of the application.
-https://github.com/Atharva17062002/expenses/blob/master/assets/Screenshot_20230120_215901.png
+<img src="https://github.com/Atharva17062002/expenses/blob/master/assets/Screenshot_20230120_215901.png" width="500" height="600">
 
 All transactions page where you can see the transaction according to the date.
 ![Screenshot_20230120_220041](https://user-images.githubusercontent.com/71925942/213753671-49804e63-f9f4-40b8-b43f-569f95e6c8dc.png)
